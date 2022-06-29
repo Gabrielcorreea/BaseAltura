@@ -1,0 +1,11 @@
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\bin\Debug\BaseAltura.exe.config
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\bin\Debug\BaseAltura.exe
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\bin\Debug\BaseAltura.pdb
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.csproj.AssemblyReference.cache
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.Form1.resources
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.Properties.Resources.resources
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.csproj.GenerateResource.cache
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.exe
+C:\Users\gabriel.acorrea1\Documents\uc9\BaseAltura\BaseAltura\obj\Debug\BaseAltura.pdb
